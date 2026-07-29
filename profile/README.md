@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# 🏢 SecurityX
-
 ### *Enterprise Moderation Infrastructure for Minecraft Networks*
 
 <br>
