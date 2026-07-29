@@ -142,19 +142,6 @@ All trademarks, including "Minecraft," are the property of their respective owne
 
 ---
 
-<div align="center">
-
-<br>
-
-```
-███████ ███████  ██████  ██    ██ ██████  ██ ███████ ██   ██ ██
-██      ██      ██       ██    ██ ██   ██ ██ ██       ██ ██  ██
-███████ ███████ ██   ███ ██    ██ ██████  ██ ███████   ███   ██
-     ██      ██ ██    ██ ██    ██ ██   ██ ██      ██  ██ ██
-███████ ███████  ██████   ██████  ██   ██ ██ ███████ ██   ██ ██
-```
-
-<br>
 
 **SecurityX** — *Moderation Infrastructure. Community Protection.*
 
